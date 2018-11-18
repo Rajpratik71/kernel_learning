@@ -1,0 +1,6 @@
+lizhong
+disk.vhd
+*.swp
+*.bin
+*.lst
+bochs.out
